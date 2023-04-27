@@ -41,6 +41,10 @@ function waitForAllImagesToLoad() {
 	}
 }
 
+function setTintColor(color) {
+	document.querySelector(':root').style.setProperty("--accent-color", `#${color}`);
+}
+
 function addNavigationBar(title) {
 	document.getElementById("top").insertAdjacentHTML("beforeend", `
 	<div id="nav-bar">

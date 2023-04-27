@@ -1,8 +1,7 @@
 fetch(sourceURL)
 	.then(response => response.json())
 	.then(json => {
-		if (json.tintColor)
-			document.querySelector(':root').style.setProperty("--accent-color", `#${json.tintColor}`);
+		if (json.tintColor) setTintColor(json.tintColor)
 
 		document.title = json.name;
 		document.getElementById("title").innerText = json.name;

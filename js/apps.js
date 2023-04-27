@@ -3,6 +3,8 @@ addNavigationBar("All Apps");
 fetch(sourceURL)
 	.then(response => response.json())
 	.then(json => {
+		if (json.tintColor) setTintColor(json.tintColor)
+
 		document.title = `Apps - ${json.name}`;
 
 		json.apps.sort((a, b) => (new Date(b.versionDate)).valueOf() - (new Date(a.versionDate)).valueOf());
