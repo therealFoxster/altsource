@@ -98,7 +98,6 @@ function main(json) {
 	const perviewDescriptionURLs = [...new Set(localizedDescription.match(urlRegex))]; // Creating set from array to remove duplicates
 
 	perviewDescriptionURLs.forEach(url => {
-		console.log(url);
 		localizedDescription = localizedDescription.replaceAll(url, `<a href="${url}">${url}</a>`)
 	});
 
