@@ -1,0 +1,87 @@
+.uibanner .icon {
+  max-width: 30px;
+  border-radius: 7px;
+  border: 0.75px solid rgba(0, 0, 0, 0.1);
+}
+
+:root {
+  --color-separator: rgba(0, 0, 0, 0.15);
+  --color-separator-dark: rgba(255, 255, 255, 0.15);
+  --color-primary: rgba(0, 122, 254, 255);
+  --color-primary-dark: rgba(11, 132, 254, 255);
+}
+
+.uibanner {
+  z-index: 5;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 1px;
+  /* background: rgba(10, 110, 110, 1) !important; */
+  /* background-color: rgba(1, 128, 132, 0.75) !important; */
+  border-bottom: 0.1px solid var(--color-separator);
+}
+
+.uibanner {
+  background: white;
+}
+
+.uibanner>.icon {
+  margin-left: 14px;
+  display: flex;
+}
+
+.uibanner>.content {
+  min-height: 28px;
+  width: 100%;
+  margin-left: 8px;
+  padding: 8px 16px 8px 0px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.uibanner>.content>.text-container>.title-text {
+  padding-bottom: 0 !important;
+  font-weight: 600;
+  font-size: 12.95px !important;
+}
+
+.uibanner>.content>.text-container>.detail-text {
+  padding-top: 0 !important;
+  font-size: 11px !important;
+  font-weight: 400;
+  line-height: 12px !important;
+  opacity: 0.55;
+}
+
+.uibanner>.content button {
+  min-width: 68px !important;
+  padding: 5px 13px;
+  font-size: 15px;
+  font-weight: 600;
+  text-transform: uppercase;
+  border: none;
+  border-radius: 20px;
+  color: white;
+  background-color: rgb(0, 122, 254);
+  cursor: pointer;
+}
+
+.uibanner>.content a {
+  text-decoration: none;
+  color: unset;
+  font-weight: 600;
+
+  color: white;
+}
+
+/* @media (prefers-color-scheme: dark) {
+  .uibanner {
+    border-color: var(--color-separator-dark);
+  }
+
+  .uibanner>.content button {
+    background-color: var(--color-primary-dark);
+  }
+} */
