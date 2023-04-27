@@ -1,15 +1,5 @@
 const sourceURL = "https://therealfoxster.github.io/altsource/data/apps.json";
 
-fetch(sourceURL)
-// fetch("data/apps.json")
-	.then(response => response.json())
-	.then(json => {
-		if (json.tintColor) 
-			document.querySelector(':root').style.setProperty("--accent-color", `#${json.tintColor}`);
-		main(json);
-		waitForAllImagesToLoad();
-	});
-
 // Back button
 document.getElementById("back")?.addEventListener("click", () => history.back(1));
 
