@@ -50,17 +50,21 @@ fetch(sourceURL)
 		const urlRegex = /(https?:\/\/[^ ]*)/g; // "g": global flag; without this, match() returns only the first matching result
 
 		var description = json.description;
-		const urls = [...new Set(description.match(urlRegex))]; // Creating set from array to remove duplicates
+		if (description) {
+			const urls = [...new Set(description.match(urlRegex))]; // Creating set from array to remove duplicates
 
-		urls.forEach(url =>
-			description = description.replaceAll(url, `<a href="${url}">${url}</a>`)
-		);
+			urls.forEach(url =>
+				description = description.replaceAll(url, `<a href="${url}">${url}</a>`)
+			);
 
-		document.getElementById("about").insertAdjacentHTML("beforeend", `
-			<div class="item">
-				<p>${description.replaceAll("\n", "<br>")}</p>
-			</div>
-		`);
+			document.getElementById("about").insertAdjacentHTML("beforeend", `
+				<div class="item">
+					<p>${description.replaceAll("\n", "<br>")}</p>
+				</div>
+			`);
+		} else {
+			document.getElementById("about").remove();
+		}
 
 		waitForAllImagesToLoad();
 	});
