@@ -17,7 +17,7 @@ fetch(sourceURL)
 			json.news.sort((a, b) => (new Date(b.date)).valueOf() - (new Date(a.date)).valueOf());
 		
 			// News
-			if (json.news.length = 1) {
+			if (json.news.length == 1) {
 				document.getElementById("news-items").insertAdjacentHTML("beforeend", newsItemHTML(json.news[0], json.apps, true));
 				document.getElementById("news-items").classList.add("one");
 			} else if (json.news.length > 1) {
