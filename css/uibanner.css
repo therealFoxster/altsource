@@ -4,21 +4,12 @@
   border: 0.75px solid rgba(0, 0, 0, 0.1);
 }
 
-:root {
-  --color-separator: rgba(0, 0, 0, 0.15);
-  --color-separator-dark: rgba(255, 255, 255, 0.15);
-  --color-primary: rgba(0, 122, 254, 255);
-  --color-primary-dark: rgba(11, 132, 254, 255);
-}
-
 .uibanner {
   z-index: 5;
   display: flex;
   align-items: center;
   justify-content: center;
   padding-bottom: 1px;
-  /* background: rgba(10, 110, 110, 1) !important; */
-  /* background-color: rgba(1, 128, 132, 0.75) !important; */
   border-bottom: 0.1px solid var(--color-separator);
 }
 
@@ -75,13 +66,3 @@
 
   color: white;
 }
-
-/* @media (prefers-color-scheme: dark) {
-  .uibanner {
-    border-color: var(--color-separator-dark);
-  }
-
-  .uibanner>.content button {
-    background-color: var(--color-primary-dark);
-  }
-} */

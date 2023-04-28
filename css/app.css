@@ -91,7 +91,7 @@ a {
 	bottom: 0;
 	right: 0;
 	padding-left: 36px;
-	background: linear-gradient(to right, transparent, var(--light-bg) 35%);
+	background: linear-gradient(to right, transparent, var(--color-bg) 35%);
 }
 
 @media (hover:hover) {
