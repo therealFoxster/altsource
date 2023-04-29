@@ -46,20 +46,11 @@ fetch(sourceURL)
 			count++;
 		});
 
-		// https://stackoverflow.com/a/31760088
-		const urlRegex = /(https?:\/\/[^ ]*)/g; // "g": global flag; without this, match() returns only the first matching result
-
-		var description = json.description;
+		var description = formatString(json.description);
 		if (description) {
-			const urls = [...new Set(description.match(urlRegex))]; // Creating set from array to remove duplicates
-
-			urls.forEach(url =>
-				description = description.replaceAll(url, `<a href="${url}">${url}</a>`)
-			);
-
 			document.getElementById("about").insertAdjacentHTML("beforeend", `
 				<div class="item">
-					<p>${description.replaceAll("\n", "<br>")}</p>
+					<p>${description}</p>
 				</div>
 			`);
 		} else {

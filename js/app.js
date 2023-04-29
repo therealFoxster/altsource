@@ -92,19 +92,7 @@ fetch(sourceURL)
 			previewScreenshots.insertAdjacentHTML("beforeend", `<img src="${url}" alt="">`);
 		});
 
-		// https://stackoverflow.com/a/31760088
-		const urlRegex = /(https?:\/\/[^ ]*)/g; // "g": global flag; without this, match() returns only the first matching result
-
-		let localizedDescription = app.localizedDescription;
-
-		const perviewDescriptionURLs = [...new Set(localizedDescription.match(urlRegex))]; // Creating set from array to remove duplicates
-
-		perviewDescriptionURLs.forEach(url => {
-			localizedDescription = localizedDescription.replaceAll(url, `<a href="${url}">${url}</a>`)
-		});
-
-
-		previewDescription.innerHTML = localizedDescription.replaceAll("\n", "<br>");
+		previewDescription.innerHTML = formatString(app.localizedDescription);
 
 		const more = `
 		<a id="more" onclick="revealTruncatedText(this);">
@@ -149,14 +137,7 @@ fetch(sourceURL)
 		versionSize.textContent = `${appSize} ${units[c]}`;
 
 		// Version description
-		var appVersionDescription = app.versionDescription;
-		const urls = [...new Set(appVersionDescription.match(urlRegex))]; // Creating set from array to remove duplicates
-
-		urls.forEach(url =>
-			appVersionDescription = appVersionDescription.replaceAll(url, `<a href="${url}">${url}</a>`)
-		);
-
-		versionDescription.innerHTML = appVersionDescription.replaceAll("\n", "<br>");
+		versionDescription.innerHTML = formatString(app.versionDescription);
 		if (versionDescription.scrollHeight > versionDescription.clientHeight)
 			versionDescription.insertAdjacentHTML("beforeend", more);
 
