@@ -13,10 +13,10 @@
             "developerName": "Various Developers",
             "subtitle": "The best tweak for the YouTube app just got even better",
             "version": "18.14.1",
-            "size": 121693315,
-            "versionDate": "2023-05-21T14:13:00-07:00",
-            "versionDescription": "Update DontEatMyContent (v1.0.6 -> v1.0.10)\n\nFull changelog: \nhttps://github.com/qnblackcat/uYouPlus/releases/tag/v18.14.1-3.0",
-            "downloadURL": "https://github.com/therealFoxster/uYouPlus/releases/download/v18.14.1-3.0-(46)/uYouPlus_18.14.1_3.0.ipa",
+            "size": 121693198,
+            "versionDate": "2023-05-23T18:57:00-07:00",
+            "versionDescription": "• Fix crash on startup after closing with uYou download in progress\n• Update DontEatMyContent (v1.0.6 -> v1.0.10)\n\nFull changelog: \nhttps://github.com/qnblackcat/uYouPlus/releases/tag/v18.14.1-3.0",
+            "downloadURL": "https://github.com/therealFoxster/uYouPlus/releases/download/v18.14.1-3.0-(47)/uYouPlus_18.14.1_3.0.ipa",
             "localizedDescription": "uYou is the best tweak for the YouTube app.\n\nuYouPlus is a modified version of uYou with even more features.\n\nAdditional features:\n• Skip sponsorships in videos (iSponsorBlock)\n• Even more PiP options (YouPiP)\n• Unlock 1440p and 2160p resolutions (YTUHD)\n• Disable overlay at the end of videos (YTNoHoverCards)\n• Remove YouTube Premium upsell alerts (NoYTPremium)\n• Enable the miniplayer for all videos (YTMiniplayerEnabler)\n• Prevent the notch/Dynamic Island from cutting into 2:1 videos (DontEatMyContent)\n• Configure A/B settings in the YouTube app (YTABConfig)\n• And more\n\nMore information: \nhttps://github.com/qnblackcat/uYouPlus/ \n\nRequires iOS 14.0 or later.\n\nContributors: MiRO92, qnblackcat, PoomSmart, level3tjg, BandarHelal, galactic, julioverne, HASHBANG, Lyvendia, Foxster, ichitaso, Ahmed Bafkir, CokePokes, Tommy Teo, theos, and many others.",
             "iconURL": "https://raw.githubusercontent.com/therealFoxster/AltSource/master/assets/icons/uYou.png",
             "tintColor": "cb1633",
@@ -54,13 +54,13 @@
     ],
     "news": [
         {
-            "title": "New to Sideloading?",
+            "title": "Important uYouPlus Update",
             "identifier": "foxster-news-2",
-            "caption": "Tap here to learn how to install AltStore and get started!",
-            "tintColor": "018084",
-            "url": "https://faq.altstore.io",
-            "date": "2023-05-22",
-            "notify": false
+            "caption": "Update to the latest version of uYouPlus to prevent the app crashing on startup after being closed while a uYou download is in progress. If you don't see an update in the My Apps tab, manually uninstall and reinstall uYouPlus.",
+            "tintColor": "cb1633",
+            "date": "2023-05-23",
+            "appID": "com.google.ios.youtube",
+            "notify": true
         },
         {
             "title": "Breaking News!",
