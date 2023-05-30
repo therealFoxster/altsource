@@ -27,6 +27,16 @@
                 "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus4.jpeg?raw=true",
                 "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus5.jpeg?raw=true",
                 "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus6.jpeg?raw=true"
+            ],
+            "permissions": [
+                {
+                    "type": "photos",
+                    "usageDescription": "Allows YouTube to upload media from your photo library."
+                },
+                {
+                    "type": "background-audio",
+                    "usageDescription": "Allows YouTube to play audio in the background."
+                }
             ]
         },
         {
@@ -49,6 +59,16 @@
                 "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/Spotify/IMG_2845.PNG?raw=true",
                 "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/Spotify/IMG_2846.PNG?raw=true",
                 "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/Spotify/IMG_2847.PNG?raw=true"
+            ],
+            "permissions": [
+                {
+                    "type": "photos",
+                    "usageDescription": "Allows Spotify to upload media from your photo library for use as playlist cover, profile picture, etc."
+                },
+                {
+                    "type": "background-audio",
+                    "usageDescription": "Allows Spotify to play audio in the background."
+                }
             ]
         }
     ],
