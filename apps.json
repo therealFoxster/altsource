@@ -136,6 +136,38 @@
                 }
             ],
             "appPermissions": {
+                "entitlements": [
+                    {
+                        "name": "aps-environment"
+                    },
+                    {
+                        "name": "com.apple.developer.siri"
+                    },
+                    {
+                        "name": "com.apple.developer.carplay-audio"
+                    },
+                    {
+                        "name": "com.apple.developer.playable-content"
+                    },
+                    {
+                        "name": "com.apple.developer.applesignin"
+                    },
+                    {
+                        "name": "com.apple.developer.networking.multicast"
+                    },
+                    {
+                        "name": "com.apple.developer.networking.wifi-info"
+                    },
+                    {
+                        "name": "keychain-access-groups"
+                    },
+                    {
+                        "name": "com.apple.security.application-groups"
+                    },
+                    {
+                        "name": "com.apple.developer.associated-domains"
+                    }
+                ], 
                 "privacy": [
                     {
                         "name": "BluetoothAlways",
