@@ -37,7 +37,72 @@
                     "type": "background-audio",
                     "usageDescription": "Allows YouTube to play audio in the background."
                 }
-            ]
+            ],
+            "appPermissions": {
+                "entitlements": [
+                    {
+                        "name": "aps-environment"
+                    },
+                    {
+                        "name": "com.apple.developer.associated-domains"
+                    },
+                    {
+                        "name": "com.apple.developer.coremedia.allow-alternate-video-decoder-selection"
+                    },
+                    {
+                        "name": "com.apple.developer.device-information.user-assigned-device-name"
+                    },
+                    {
+                        "name": "com.apple.developer.networking.multicast"
+                    },
+                    {
+                        "name": "com.apple.developer.networking.wifi-info"
+                    },
+                    {
+                        "name": "com.apple.developer.usernotifications.time-sensitive"
+                    },
+                    {
+                        "name": "com.apple.security.application-groups"
+                    },
+                    {
+                        "name": "keychain-access-groups"
+                    }
+                ],
+                "privacy": [
+                    {
+                        "name": "AppleMusic",
+                        "usageDescription": "This lets you add your own audio files to your videos."
+                    },
+                    {
+                        "name": "BluetoothPeripheral",
+                        "usageDescription": "YouTube needs bluetooth access to scan for nearby Cast devices."
+                    },
+                    {
+                        "name": "Camera",
+                        "usageDescription": "This lets you create videos using the app."
+                    },
+                    {
+                        "name": "Contacts",
+                        "usageDescription": "Your contacts will be sent to YouTube servers to help you find friends to share videos with."
+                    },
+                    {
+                        "name": "LocalNetwork",
+                        "usageDescription": "Access to your network allows YouTube to discover and connect to devices such as your TV."
+                    },
+                    {
+                        "name": "LocationWhenInUse",
+                        "usageDescription": "Makes it easier for you to attach location information to your videos and live streams and allows for features such as improved recommendations and ads."
+                    },
+                    {
+                        "name": "Mircrophone",
+                        "usageDescription": "This lets you include audio with your videos and search using your voice."
+                    },
+                    {
+                        "name": "PhotoLibrary",
+                        "usageDescription": "This lets you upload media you've already created."
+                    }
+                ]
+            }
         },
         {
             "id": "spotify",
@@ -69,7 +134,55 @@
                     "type": "background-audio",
                     "usageDescription": "Allows Spotify to play audio in the background."
                 }
-            ]
+            ],
+            "appPermissions": {
+                "privacy": [
+                    {
+                        "name": "BluetoothAlways",
+                        "usageDescription": "This lets you use Spotify with external accessories."
+                    },
+                    {
+                        "name": "Camera",
+                        "usageDescription": "This lets you scan Spotify Codes."
+                    },
+                    {
+                        "name": "UserTracking",
+                        "usageDescription": "Your data will be used to deliver personalized ads or content to you."
+                    },
+                    {
+                        "name": "BluetoothPeripheral",
+                        "usageDescription": "This lets you use Spotify with external accessories."
+                    },
+                    {
+                        "name": "PhotoLibraryAdd",
+                        "usageDescription": "This lets you save images to your Photo Library."
+                    },
+                    {
+                        "name": "LocalNetwork",
+                        "usageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files."
+                    },
+                    {
+                        "name": "AppleMusic",
+                        "usageDescription": "This will let you play your imported music on Spotify."
+                    },
+                    {
+                        "name": "Mircrophone",
+                        "usageDescription": "This lets you control Spotify using your voice."
+                    },
+                    {
+                        "name": "LocationWhenInUse",
+                        "usageDescription": "This lets you prepopulate the SSID field with the currently connected network."
+                    },
+                    {
+                        "name": "FadeID",
+                        "usageDescription": "This lets you set access restrictions using Face ID."
+                    },
+                    {
+                        "name": "PhotoLibrary",
+                        "usageDescription": "This lets you select images from your Photo Library."
+                    }
+                ]
+            }
         }
     ],
     "news": [
