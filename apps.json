@@ -94,7 +94,7 @@
                         "usageDescription": "Makes it easier for you to attach location information to your videos and live streams and allows for features such as improved recommendations and ads."
                     },
                     {
-                        "name": "Mircrophone",
+                        "name": "Microphone",
                         "usageDescription": "This lets you include audio with your videos and search using your voice."
                     },
                     {
@@ -166,7 +166,7 @@
                         "usageDescription": "This will let you play your imported music on Spotify."
                     },
                     {
-                        "name": "Mircrophone",
+                        "name": "Microphone",
                         "usageDescription": "This lets you control Spotify using your voice."
                     },
                     {
@@ -174,7 +174,7 @@
                         "usageDescription": "This lets you prepopulate the SSID field with the currently connected network."
                     },
                     {
-                        "name": "FadeID",
+                        "name": "FaceID",
                         "usageDescription": "This lets you set access restrictions using Face ID."
                     },
                     {
