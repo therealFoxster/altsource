@@ -41,6 +41,9 @@
             "appPermissions": {
                 "entitlements": [
                     {
+                        "name": "get-task-allow"
+                    },
+                    {
                         "name": "aps-environment"
                     },
                     {
@@ -137,6 +140,9 @@
             ],
             "appPermissions": {
                 "entitlements": [
+                    {
+                        "name": "get-task-allow"
+                    },
                     {
                         "name": "aps-environment"
                     },
