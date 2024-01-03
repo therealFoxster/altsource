@@ -15,13 +15,13 @@
             "version": "18.49.3",
             "size": 126413433,
             "versionDate": "2023-12-25T18:04:00-08:00",
-            "versionDescription": "YouTube v18.49.3\n• Fixed bugs, improved performance, took the afternoon off.\n\nuYouPlus\n• Full changelog: https://github.com/therealFoxster/uYouPlus/compare/v18.14.1-3.0-(48)...v18.49.3-3.0.1-(105)",
+            "versionDescription": "• YouTube v18.49.3: Fixed bugs, improved performance, took the afternoon off.\n• uYouPlus changelog: https://github.com/therealFoxster/uYouPlus/compare/v18.14.1-3.0-(48)...v18.49.3-3.0.1-(105)",
             "downloadURL": "https://github.com/therealFoxster/uYouPlus/releases/download/v18.49.3-3.0.1-(105)/uYouPlus_18.49.3_3.0.1.ipa",
             "versions": [
                 {
                     "version": "18.49.3",
                     "date": "2023-12-25T18:04:00-08:00",
-                    "localizedDescription": "YouTube v18.49.3\n• Fixed bugs, improved performance, took the afternoon off.\n\nuYouPlus\n• Full changelog: https://github.com/therealFoxster/uYouPlus/compare/v18.14.1-3.0-(48)...v18.49.3-3.0.1-(105)",
+                    "localizedDescription": "• YouTube v18.49.3: Fixed bugs, improved performance, took the afternoon off.\n• uYouPlus changelog: https://github.com/therealFoxster/uYouPlus/compare/v18.14.1-3.0-(48)...v18.49.3-3.0.1-(105)",
                     "downloadURL": "https://github.com/therealFoxster/uYouPlus/releases/download/v18.49.3-3.0.1-(105)/uYouPlus_18.49.3_3.0.1.ipa",
                     "size": 126413433
                 },
