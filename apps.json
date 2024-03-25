@@ -132,7 +132,7 @@
             "version": "8.6.42",
             "versionDate": "2022-09-03T12:00:00-00:00",
             "versionDescription": "Spotify v8.6.42 (Jul 9, 2021)\n\"We’re always making changes and improvements to Spotify. To make sure you don’t miss a thing, just keep your Updates turned on.\n\nBug fixes and improvements in this version include:\n- Fixed stability issues\"\n\nTweaks\n• Spotilife v1.8\n• Sposify v8.5.52\n• Sposify Fix v0.0.6\n\nKnown issues\n• Log in with Google and Apple is broken\n• App won't deactivate with AltStore",
-            "downloadURL": "https://drive.google.com/uc?export=download&id=1VgAmuJ-ukft40t0FjKk89UYn6BbguQtu&confirm=t",
+            "downloadURL": "https://www.dropbox.com/scl/fi/3p0meeuisv0zcr8sygzms/Spotify.ipa?rlkey=b4100lnevwqbjehsadpv6es2i&dl=1",
             "localizedDescription": "This tweaked version of Spotify is completely ad-free and contains various customization features (thanks to @atebitsy/aesthyrica).\n\nTweaks injected\n• Spotilife\n• Sposify\n• Sposify Fix\n\nContributors: julioverne, atebitsy/aesthyrica, level3tjg",
             "iconURL": "https://raw.githubusercontent.com/therealFoxster/AltSource/master/assets/icons/Spotify.png",
             "tintColor": "1db954",
