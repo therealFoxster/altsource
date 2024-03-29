@@ -16,20 +16,20 @@
             "size": 126413433,
             "versionDate": "2023-12-25T18:04:00-08:00",
             "versionDescription": "• YouTube v18.49.3: Fixed bugs, improved performance, took the afternoon off.\n• uYouPlus changelog: https://github.com/therealFoxster/uYouPlus/compare/v18.14.1-3.0-(48)...v18.49.3-3.0.1-(105)",
-            "downloadURL": "https://github.com/therealFoxster/uYouPlus/releases/download/v18.49.3-3.0.1-(105)/uYouPlus_18.49.3_3.0.1.ipa",
+            "downloadURL": "https://www.dropbox.com/scl/fi/qh82bekurzfkd2gwu0h5d/uYouPlus_18.49.3_3.0.1.ipa?rlkey=kgsq4b34bfvz3gr4m94ccfylh&dl=1",
             "versions": [
                 {
                     "version": "18.49.3",
                     "date": "2023-12-25T18:04:00-08:00",
                     "localizedDescription": "• YouTube v18.49.3: Fixed bugs, improved performance, took the afternoon off.\n• uYouPlus changelog: https://github.com/therealFoxster/uYouPlus/compare/v18.14.1-3.0-(48)...v18.49.3-3.0.1-(105)",
-                    "downloadURL": "https://github.com/therealFoxster/uYouPlus/releases/download/v18.49.3-3.0.1-(105)/uYouPlus_18.49.3_3.0.1.ipa",
+                    "downloadURL": "https://www.dropbox.com/scl/fi/qh82bekurzfkd2gwu0h5d/uYouPlus_18.49.3_3.0.1.ipa?rlkey=kgsq4b34bfvz3gr4m94ccfylh&dl=1",
                     "size": 126413433
                 },
                 {
                     "version": "18.14.1",
                     "date": "2023-05-27T22:14:00-07:00",
                     "localizedDescription": "• Fix stretched artwork in uYou's player view\n• Fix crash on startup after closing with uYou download in progress\n• Update DontEatMyContent (v1.0.6 -> v1.0.10)\n\nFull changelog: \nhttps://github.com/qnblackcat/uYouPlus/releases/tag/v18.14.1-3.0",
-                    "downloadURL": "https://github.com/therealFoxster/uYouPlus/releases/download/v18.14.1-3.0-(48)/uYouPlus_18.14.1_3.0.ipa",
+                    "downloadURL": "https://www.dropbox.com/scl/fi/8kisq9n4czxfr4e2iaggo/uYouPlus_18.14.1_3.0.ipa?rlkey=o0jml66nvuc3z4lpii3gh000n&dl=1",
                     "size": 121693569
                 }
             ],
