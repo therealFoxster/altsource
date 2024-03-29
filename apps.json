@@ -248,6 +248,15 @@
     ],
     "news": [
         {
+            "title": "uYouPlus's Version History",
+            "identifier": "foxster-news-3",
+            "caption": "Tap to learn more about uYouPlus and its version history.",
+            "tintColor": "cb1633",
+            "url": "https://therealfoxster.github.io/altsource-viewer/view/app/?source=https://therealfoxster.github.io/altsource/apps.json&id=com.google.ios.youtube#version-history",
+            "date": "2024-03-28",
+            "notify": false
+        },
+        {
             "title": "Update to the Latest Version of uYouPlus for an Important Crash Fix",
             "identifier": "foxster-news-2",
             "caption": "This update fixes crashing on startup after closing the app with a uYou download in progress. If you don't see an update in the My Apps tab, manually uninstall and reinstall uYouPlus.",
