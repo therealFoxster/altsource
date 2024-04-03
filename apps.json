@@ -12,12 +12,19 @@
             "bundleIdentifier": "com.google.ios.youtube",
             "developerName": "Various Developers",
             "subtitle": "uYouPlus is a modified version of uYou with even more features.",
-            "version": "19.12.3",
-            "size": 127188824,
-            "versionDate": "2024-03-28T23:08:00-08:00",
-            "versionDescription": "• YouTube v19.12.3: Bug fixes, performance improvements, and more cat videos.\n• uYou 3.0.3\n• uYouPlus changelog: https://github.com/therealFoxster/uYouPlus/compare/v18.49.3-3.0.1-(105)...v19.12.3-3.0.3-(129)",
-            "downloadURL": "https://www.dropbox.com/scl/fi/3p2dii8q3h3rf8tq9701m/uYouPlus_19.12.3-3.0.3.ipa?rlkey=4f5bwhme4dlsmve3xm4vtrx37&dl=1",
+            "version": "19.13.1",
+            "size": 127524888,
+            "versionDate": "2024-04-02T20:40:00-08:00",
+            "versionDescription": "• YouTube v19.13.1: Bug fixes, performance improvements, and took the afternoon off.\n• uYouPlus changelog: https://github.com/therealFoxster/uYouPlus/compare/v19.12.3-3.0.3-(129)...v19.13.1-3.0.3-(131)",
+            "downloadURL": "https://www.dropbox.com/scl/fi/vhgv41bwdbizevdm9m31u/uYouPlus_19.13.1-3.0.3.ipa?rlkey=doug4qz42myyw4lri929hiyx7&dl=1",
             "versions": [
+                {
+                    "version": "19.13.1",
+                    "date": "2024-04-02T20:40:00-08:00",
+                    "localizedDescription": "• YouTube v19.13.1: Bug fixes, performance improvements, and took the afternoon off.\n• uYouPlus changelog: https://github.com/therealFoxster/uYouPlus/compare/v19.12.3-3.0.3-(129)...v19.13.1-3.0.3-(131)",
+                    "downloadURL": "https://www.dropbox.com/scl/fi/vhgv41bwdbizevdm9m31u/uYouPlus_19.13.1-3.0.3.ipa?rlkey=doug4qz42myyw4lri929hiyx7&dl=1",
+                    "size": 127524888
+                },
                 {
                     "version": "19.12.3",
                     "date": "2024-03-28T23:08:00-08:00",
