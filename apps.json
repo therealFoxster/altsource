@@ -3,6 +3,7 @@
     "identifier": "me.foxster.AltSource",
     "subtitle": "Foxster's AltStore source.",
     "description": "AltStore source with tweaked apps and possibly more.",
+    "website": "https://github.com/therealFoxster/altsource",
     "iconURL": "https://avatars.githubusercontent.com/u/77606385",
     "tintColor": "D85240",
     "apps": [
