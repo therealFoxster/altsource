@@ -218,7 +218,7 @@
                     {
                         "name": "com.apple.developer.associated-domains"
                     }
-                ], 
+                ],
                 "privacy": [
                     {
                         "name": "BluetoothAlways",
@@ -269,6 +269,14 @@
         }
     ],
     "news": [
+        {
+            "title": "SideStore v0.5.4: Source Refresh Broken",
+            "identifier": "foxster-news-4",
+            "caption": "It seems that sources can't be refreshed on SideStore v0.5.4. For now, to get an app update, remove and add the source again (or download an IPA file and install manually).",
+            "tintColor": "A405FA",
+            "date": "2024-04-21",
+            "notify": false
+        },
         {
             "title": "uYouPlus's Version History",
             "identifier": "foxster-news-3",
