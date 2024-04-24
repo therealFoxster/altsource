@@ -65,6 +65,26 @@
             "localizedDescription": "uYou is the best tweak for the YouTube app.\n\nuYouPlus is a modified version of uYou with even more features.\n\nAdditional features:\n• Skip sponsorships in videos (iSponsorBlock)\n• Even more PiP options (YouPiP)\n• Unlock 1440p and 2160p resolutions (YTUHD)\n• Disable overlay at the end of videos (YTNoHoverCards)\n• Remove YouTube Premium upsell alerts (NoYTPremium)\n• Enable the miniplayer for all videos (YTMiniplayerEnabler)\n• Prevent the notch/Dynamic Island from cutting into 2:1 videos (DontEatMyContent)\n• Configure A/B settings in the YouTube app (YTABConfig)\n• And more\n\nMore information: \nhttps://github.com/qnblackcat/uYouPlus/ \n\nRequires iOS 14.0 or later.\n\nContributors: MiRO92, qnblackcat, PoomSmart, level3tjg, BandarHelal, galactic, julioverne, HASHBANG, Lyvendia, Foxster, ichitaso, Ahmed Bafkir, CokePokes, Tommy Teo, theos, and many others.",
             "iconURL": "https://raw.githubusercontent.com/therealFoxster/AltSource/master/assets/icons/uYou.png",
             "tintColor": "cb1633",
+            "screenshots": [
+                {
+                    "imageURL": "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus1.jpeg?raw=true"
+                },
+                {
+                    "imageURL": "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus2.jpeg?raw=true"
+                },
+                {
+                    "imageURL": "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus3.jpeg?raw=true"
+                },
+                {
+                    "imageURL": "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus4.jpeg?raw=true"
+                },
+                {
+                    "imageURL": "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus5.jpeg?raw=true"
+                },
+                {
+                    "imageURL": "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus6.jpeg?raw=true"
+                }
+            ],
             "screenshotURLs": [
                 "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus1.jpeg?raw=true",
                 "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus2.jpeg?raw=true",
@@ -166,6 +186,23 @@
             "iconURL": "https://raw.githubusercontent.com/therealFoxster/AltSource/master/assets/icons/Spotify.png",
             "tintColor": "1db954",
             "size": 50512487,
+            "screenshots": [
+                {
+                    "imageURL": "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/Spotify/IMG_2841.PNG?raw=true"
+                },
+                {
+                    "imageURL": "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/Spotify/IMG_2843.PNG?raw=true"
+                },
+                {
+                    "imageURL": "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/Spotify/IMG_2845.PNG?raw=true"
+                },
+                {
+                    "imageURL": "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/Spotify/IMG_2846.PNG?raw=true"
+                },
+                {
+                    "imageURL": "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/Spotify/IMG_2847.PNG?raw=true"
+                }
+            ],
             "screenshotURLs": [
                 "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/Spotify/IMG_2841.PNG?raw=true",
                 "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/Spotify/IMG_2843.PNG?raw=true",
