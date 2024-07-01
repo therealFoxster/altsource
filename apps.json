@@ -16,13 +16,13 @@
             "version": "19.20.2",
             "size": 126425271,
             "versionDate": "2024-07-01T11:01:00-07:00",
-            "versionDescription": "• Fixed blank home page issue caused by uYou's adblock (switched to YouTube-X for adblocking)\n• uYou v3.0.4\n• Full uYouPlus changelog: https://github.com/therealFoxster/uYouPlus/compare/v19.17.2-3.0.3-(139)...v19.20.2-3.0.4-(150)\n• YouTube v19.20.2: Fixed bugs, improved performance, drank way too much coffee.",
+            "versionDescription": "• uYou v3.0.4\n• Fixed blank home page issue caused by uYou's adblock (switched to YouTube-X for adblocking)\n• Full uYouPlus changelog: https://github.com/therealFoxster/uYouPlus/compare/v19.17.2-3.0.3-(139)...v19.20.2-3.0.4-(150)\n• YouTube v19.20.2: Fixed bugs, improved performance, drank way too much coffee.",
             "downloadURL": "https://www.dropbox.com/scl/fi/l4l8fgtvt0t0shmoc5lc2/uYouPlus_19.20.2-3.0.4.ipa?rlkey=7tlmig84z8f7vfa7jbsyk344s&st=vugdw7gy&dl=1",
             "versions": [
                 {
                     "version": "19.20.2",
                     "date": "2024-07-01T11:01:00-07:00",
-                    "localizedDescription": "• Fixed blank home page issue caused by uYou's adblock (switched to YouTube-X for adblocking)\n• uYou v3.0.4\n• Full uYouPlus changelog: https://github.com/therealFoxster/uYouPlus/compare/v19.17.2-3.0.3-(139)...v19.20.2-3.0.4-(150)\n• YouTube v19.20.2: Fixed bugs, improved performance, drank way too much coffee.",
+                    "localizedDescription": "• uYou v3.0.4\n• Fixed blank home page issue caused by uYou's adblock (switched to YouTube-X for adblocking)\n• Full uYouPlus changelog: https://github.com/therealFoxster/uYouPlus/compare/v19.17.2-3.0.3-(139)...v19.20.2-3.0.4-(150)\n• YouTube v19.20.2: Fixed bugs, improved performance, drank way too much coffee.",
                     "downloadURL": "https://www.dropbox.com/scl/fi/l4l8fgtvt0t0shmoc5lc2/uYouPlus_19.20.2-3.0.4.ipa?rlkey=7tlmig84z8f7vfa7jbsyk344s&st=vugdw7gy&dl=1",
                     "size": 126425271
                 },
