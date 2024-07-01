@@ -13,12 +13,19 @@
             "bundleIdentifier": "com.google.ios.youtube",
             "developerName": "Various Developers",
             "subtitle": "uYouPlus is a modified version of uYou with even more features.",
-            "version": "19.17.2",
-            "size": 128197362,
-            "versionDate": "2024-04-30T19:30:00-07:00",
-            "versionDescription": "• Fixed crash when trying to play video\n• Full uYouPlus changelog: https://github.com/therealFoxster/uYouPlus/compare/v19.16.3-3.0.3-(138)...v19.17.2-3.0.3-(139)\n• YouTube v19.17.2: We fixed the tubes that bring you videos – and some bugs too.",
-            "downloadURL": "https://www.dropbox.com/scl/fi/tov3j3qsl0ura9tsrkrka/uYouPlus_19.17.2-3.0.3.ipa?rlkey=cee06bo5vymx9oqt7ox0v2krs&st=8ggqrnqy&dl=1",
+            "version": "19.20.2",
+            "size": 126425271,
+            "versionDate": "2024-07-01T11:01:00-07:00",
+            "versionDescription": "• Fixed blank home page issue caused by uYou's adblock (switched to YouTube-X for adblocking)\n• uYou v3.0.4\n• Full uYouPlus changelog: https://github.com/therealFoxster/uYouPlus/compare/v19.17.2-3.0.3-(139)...v19.20.2-3.0.4-(150)\n• YouTube v19.20.2: Fixed bugs, improved performance, drank way too much coffee.",
+            "downloadURL": "https://www.dropbox.com/scl/fi/l4l8fgtvt0t0shmoc5lc2/uYouPlus_19.20.2-3.0.4.ipa?rlkey=7tlmig84z8f7vfa7jbsyk344s&st=vugdw7gy&dl=1",
             "versions": [
+                {
+                    "version": "19.20.2",
+                    "date": "2024-07-01T11:01:00-07:00",
+                    "localizedDescription": "• Fixed blank home page issue caused by uYou's adblock (switched to YouTube-X for adblocking)\n• uYou v3.0.4\n• Full uYouPlus changelog: https://github.com/therealFoxster/uYouPlus/compare/v19.17.2-3.0.3-(139)...v19.20.2-3.0.4-(150)\n• YouTube v19.20.2: Fixed bugs, improved performance, drank way too much coffee.",
+                    "downloadURL": "https://www.dropbox.com/scl/fi/l4l8fgtvt0t0shmoc5lc2/uYouPlus_19.20.2-3.0.4.ipa?rlkey=7tlmig84z8f7vfa7jbsyk344s&st=vugdw7gy&dl=1",
+                    "size": 126425271
+                },
                 {
                     "version": "19.17.2",
                     "date": "2024-04-30T19:30:00-07:00",
