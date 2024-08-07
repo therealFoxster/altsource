@@ -22,7 +22,7 @@
                 {
                     "version": "19.30.2",
                     "date": "2024-08-05T21:48:00-07:00",
-                    "localizedDescription": "Requires iOS/iPadOS 15.0 or later.\n• Added option to disable Google sign-in fix.\n• Full changelog: https://github.com/therealFoxster/uYouPlus/compare/v19.20.2-3.0.4-(150)...v19.30.2-3.0.4\n• YouTube v19.30.2: Bug fixes, stability improvements, repairs to space-time continuum.",
+                    "localizedDescription": "• Requires iOS/iPadOS 15.0 or later.\n• Added option to disable Google sign-in fix.\n• Full changelog: https://github.com/therealFoxster/uYouPlus/compare/v19.20.2-3.0.4-(150)...v19.30.2-3.0.4\n• YouTube v19.30.2: Bug fixes, stability improvements, repairs to space-time continuum.",
                     "downloadURL": "https://www.dropbox.com/scl/fi/pxhcfybj4b589p1jmmn6s/uYouPlus_19.30.2-3.0.4.ipa?rlkey=dv2kwjdk1hrrdp3t1vv1l16mh&st=cg7fei76&dl=1",
                     "size": 120185514,
                     "minOSVersion": "15.0"
