@@ -20,6 +20,14 @@
             "downloadURL": "https://www.dropbox.com/scl/fi/l4l8fgtvt0t0shmoc5lc2/uYouPlus_19.20.2-3.0.4.ipa?rlkey=7tlmig84z8f7vfa7jbsyk344s&st=vugdw7gy&dl=1",
             "versions": [
                 {
+                    "version": "19.21.3",
+                    "date": "2024-09-06T21:38:00-07:00",
+                    "localizedDescription": "• Downgraded YouTube (from v19.30.2 to v19.21.3) to maintain compatibility with uYou.\n• Added option to replace YouTube's download with uYou's.\n• Requires iOS/iPadOS 15.0 or later.\n• Full changelog: https://github.com/therealFoxster/uYouPlus/compare/v19.30.2-3.0.4...v19.21.3-3.0.4\n• YouTube v19.21.3: Fixed bugs, improved performance, explored the edges of the known universe.",
+                    "downloadURL": "https://www.dropbox.com/scl/fi/n6ukqhku03q18eh7t5qzt/uYouPlus_19.21.3-3.0.4.ipa?rlkey=jbcq30tkjgesw8iuxgv5avysn&st=72qhv4u5&dl=1",
+                    "size": 128490836,
+                    "minOSVersion": "15.0"
+                },
+                {
                     "version": "19.30.2",
                     "date": "2024-08-05T21:48:00-07:00",
                     "localizedDescription": "• Requires iOS/iPadOS 15.0 or later.\n• Added option to disable Google sign-in fix.\n• Full changelog: https://github.com/therealFoxster/uYouPlus/compare/v19.20.2-3.0.4-(150)...v19.30.2-3.0.4\n• YouTube v19.30.2: Bug fixes, stability improvements, repairs to space-time continuum.",
