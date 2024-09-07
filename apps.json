@@ -22,7 +22,7 @@
                 {
                     "version": "19.21.3",
                     "date": "2024-09-06T21:38:00-07:00",
-                    "localizedDescription": "• Downgraded YouTube (from v19.30.2 to v19.21.3) to maintain compatibility with uYou.\n• Added option to replace YouTube's download with uYou's.\n\nFull changelog: https://github.com/therealFoxster/uYouPlus/compare/v19.30.2-3.0.4...v19.21.3-3.0.4\n\nYouTube v19.21.3: Fixed bugs, improved performance, explored the edges of the known universe.\n\nRequires iOS/iPadOS 15.0 or later.",
+                    "localizedDescription": "• Downgraded YouTube (from v19.30.2 to v19.21.3) to maintain compatibility with uYou v3.0.4.\n• Added option to replace YouTube's download with uYou's.\n\nFull changelog: https://github.com/therealFoxster/uYouPlus/compare/v19.30.2-3.0.4...v19.21.3-3.0.4\n\nYouTube v19.21.3: Fixed bugs, improved performance, explored the edges of the known universe.\n\nRequires iOS/iPadOS 15.0 or later.",
                     "downloadURL": "https://www.dropbox.com/scl/fi/n6ukqhku03q18eh7t5qzt/uYouPlus_19.21.3-3.0.4.ipa?rlkey=jbcq30tkjgesw8iuxgv5avysn&st=72qhv4u5&dl=1",
                     "size": 128490836,
                     "minOSVersion": "15.0"
