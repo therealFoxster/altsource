@@ -20,6 +20,14 @@
             "downloadURL": "https://www.dropbox.com/scl/fi/l4l8fgtvt0t0shmoc5lc2/uYouPlus_19.20.2-3.0.4.ipa?rlkey=7tlmig84z8f7vfa7jbsyk344s&st=vugdw7gy&dl=1",
             "versions": [
                 {
+                    "version": "21.09.2",
+                    "date": "2026-03-04T09:51:00-08:00",
+                    "localizedDescription": "• Updated YouTube from v19.21.3 to v21.09.2\n• Known issue: uYou's download is broken in this version (it's broken in v19.21.3+ in general)\n\nFull changelog: https://github.com/therealFoxster/uYouPlus/compare/v19.21.3-3.0.4...v21.09.2-3.0.4\n\nYouTube v21.09.2: Fixed bugs, improved performance, explored the edges of the known universe.\n\nRequires iOS/iPadOS 16.0 or later.",
+                    "downloadURL": "https://www.dropbox.com/scl/fi/a13ey95s3a3t4flhp0o84/uYouPlus_21.09.2-3.0.4.ipa?rlkey=hzoid4zsq8w6j2euwi9url02e&st=0kc8glnn&dl=1",
+                    "size": 138551408,
+                    "minOSVersion": "16.0"
+                },
+                {
                     "version": "19.21.3",
                     "date": "2024-09-07T16:09:00-07:00",
                     "localizedDescription": "• Downgraded YouTube (from v19.30.2 to v19.21.3) to maintain compatibility with uYou v3.0.4.\n• Added option to replace YouTube's download with uYou's.\n\nFull changelog: https://github.com/therealFoxster/uYouPlus/compare/v19.30.2-3.0.4...v19.21.3-3.0.4\n\nYouTube v19.21.3: Fixed bugs, improved performance, explored the edges of the known universe.\n\nRequires iOS/iPadOS 15.0 or later.",
