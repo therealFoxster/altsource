@@ -22,7 +22,7 @@
                 {
                     "version": "21.09.2",
                     "date": "2026-03-04T21:54:00-08:00",
-                    "localizedDescription": "Updated build ✨\n• Disable Google sign in fix by default\n • DontEatMyContent v1.1.12: Fix overlapping audio in feeds by @dayanch96\n\nChangelog: https://github.com/therealFoxster/uYouPlus/compare/v21.09.2-3.0.4...v21.09.2-3.0.4-2\n\nOriginal build\n• Updated YouTube from v19.21.3 to v21.09.2\n• Known issue: uYou's download is broken in this version (it's broken in v19.21.3+ in general)\n\nChangelog: https://github.com/therealFoxster/uYouPlus/compare/v19.21.3-3.0.4...v21.09.2-3.0.4\n\nYouTube v21.09.2: Fixed bugs, improved performance, explored the edges of the known universe.\n\nRequires iOS/iPadOS 16.0 or later.",
+                    "localizedDescription": "Updated build ✨\n• Disable Google sign in fix by default\n• DontEatMyContent v1.1.12: Fix overlapping audio in feeds by @dayanch96\n\nChangelog: https://github.com/therealFoxster/uYouPlus/compare/v21.09.2-3.0.4...v21.09.2-3.0.4-2\n\nOriginal build\n• Updated YouTube from v19.21.3 to v21.09.2\n• Known issue: uYou's download is broken in this version (it's broken in v19.21.3+ in general)\n\nChangelog: https://github.com/therealFoxster/uYouPlus/compare/v19.21.3-3.0.4...v21.09.2-3.0.4\n\nYouTube v21.09.2: Fixed bugs, improved performance, explored the edges of the known universe.\n\nRequires iOS/iPadOS 16.0 or later.",
                     "downloadURL": "https://github.com/therealFoxster/uYouPlus/releases/download/v21.09.2-3.0.4-2/uYouPlus_21.09.2-3.0.4.ipa",
                     "size": 138551491,
                     "minOSVersion": "16.0"
